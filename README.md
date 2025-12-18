@@ -11,8 +11,8 @@ All the data processing, analysis, and conclusions can be found in the `data_pre
 
 
 ## Data Source (Teleconnections)
-For ENSO, PDO, and IOD: https://www.ncei.noaa.gov/pub/data/cmb/ersst/v5/index/ 
-For AO, NAO, and PNA: https://www.cpc.ncep.noaa.gov/products/precip/CWlink/daily_ao_index/teleconnections.shtml 
+##### For ENSO, PDO, and IOD: https://www.ncei.noaa.gov/pub/data/cmb/ersst/v5/index/
+##### For AO, NAO, and PNA: https://www.cpc.ncep.noaa.gov/products/precip/CWlink/daily_ao_index/teleconnections.shtml 
 
 ## Data Source (ARCO-ERA5)
 Carver, Robert W, and Merose, Alex. (2023):
