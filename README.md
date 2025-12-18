@@ -1,6 +1,6 @@
 # ATMS-523-Final-Project-Module-8 
-Author: Domenic Brooks
-This is the repository for ATMS 523 final project. 
+### Author: Domenic Brooks
+### This is the repository for ATMS 523 final project. 
 
 ## Objective
 My objective with this project was to garner a better understanding for which climate teleconnection indices are most impactful when it comes to monthly winter snowfall by building a ML model that can predict monthly snowfall anomalies. My motivation stems from my desire to better understand the complex interactions between teleconnections and winter snowfall on a sub-seasonal to seasonal scale for my home city, Baltimore, MD. 
